@@ -46,12 +46,12 @@ Data selection techniques for improving ASR performance through strategic traini
 | Large-Scale Semi-Supervised Training in Deep Learning Acoustic Model for ASR | [IEEE](https://ieeexplore.ieee.org/document/8835895/) |
 | Towards Data Selection on TTS Data for Children's Speech Recognition | [IEEE](https://ieeexplore.ieee.org/document/9413930) |
 | XenC: An Open-Source Tool for Data Selection in Natural Language Processing | [UFAL](https://ufal.mff.cuni.cz/pbml/100/art-rousseau.pdf) |
-| ACTIVE LEARNING FOR ACCENT ADAPTATION IN AUTOMATIC SPEECH RECOGNITION | [IEEE](https://ieeexplore.ieee.org/document/6424250) |
+| Active learning for accent adaptation in automatic speech recognition | [IEEE](https://ieeexplore.ieee.org/document/6424250) |
 | Gradient-based Active Learning Query Strategy for End-to-end Speech Recognition | [IEEE](https://ieeexplore.ieee.org/document/8683089/) |
 | In Search of Optimal Data Selection for Training of Automatic Speech Recognition Systems | [IEEE](https://ieeexplore.ieee.org/document/1318405) |
 | Semi-Supervised Acoustic Model Training by Discriminative Data Selection From Multiple ASR Systems' Hypotheses | [IEEE](https://ieeexplore.ieee.org/document/7464281) |
 | Submodular Data Selection with Acoustic and Phonetic Features for Automatic Speech Recognition | [IEEE](https://ieeexplore.ieee.org/document/7178848) |
-| MAXIMIZING GLOBAL ENTROPY REDUCTION FOR ACTIVE LEARNING IN SPEECH RECOGNITION | [IEEE](https://ieeexplore.ieee.org/document/4960685) |
+| Maximizing global entropy reduction for active learning in speech recognition | [IEEE](https://ieeexplore.ieee.org/document/4960685) |
 | Loss Prediction: End-to-End Active Learning Approach For Speech Recognition | [IEEE](https://ieeexplore.ieee.org/document/9533839/) |
 | Supervised and Unsupervised Active Learning for Automatic Speech Recognition of Low-Resource Languages | [IEEE](https://ieeexplore.ieee.org/document/7472693/) |
 | Efficient data selection for ASR | [Springer](https://link.springer.com/article/10.1007/s10579-014-9285-0) |
