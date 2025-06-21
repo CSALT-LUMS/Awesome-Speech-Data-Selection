@@ -10,6 +10,11 @@ Our work is based on a comprehensive survey of data selection methodologies in s
 
 ⭐ Star and fork this repository to stay up-to-date with the latest advancements and support the community.
 
+
+<p align="center">
+  <img src="./CategorizationOfDataSelectionTasks.jpg" width="70%"  />
+</p>
+
 ---
 
 ## 📌 Contents
