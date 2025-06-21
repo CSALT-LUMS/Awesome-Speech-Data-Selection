@@ -21,11 +21,11 @@ Our work is based on a comprehensive survey of **data selection methodologies in
 
 | Section | Description |
 | ------- | ----------- |
-| [🎤 Automatic Speech Recognition](#automatic-speech-recognition) | Data selection for ASR systems |
-| [🔊 Speaker Recognition](#speaker-recognition) | Data selection for speaker identification and verification |
-| [😊 Speech Emotion Recognition](#speech-emotion-recognition) | Data selection for emotion recognition from speech |
-| [🗣️ Text-to-Speech Synthesis](#text-to-speech-synthesis) | Data selection for speech synthesis systems |
-| [🛡️ Speech Anti-Spoofing](#speech-anti-spoofing) | Data selection for spoofing detection systems |
+| [🎤 Automatic Speech Recognition](#-automatic-speech-recognition) | Data selection for ASR systems |
+| [🔊 Speaker Recognition](#-speaker-recognition) | Data selection for speaker identification and verification |
+| [😊 Speech Emotion Recognition](#-speech-emotion-recognition) | Data selection for emotion recognition from speech |
+| [🗣️ Text-to-Speech Synthesis](#%EF%B8%8F-text-to-speech-synthesis) | Data selection for speech synthesis systems |
+| [🛡️ Audio Anti-Spoofing](#%EF%B8%8F-audio-anti-spoofing) | Data selection for spoofing detection systems |
 
 ---
 
@@ -110,7 +110,7 @@ Data selection techniques for improving ASR performance through strategic traini
 
 ---
 
-# 🛡️ Speech Anti-Spoofing
+# 🛡️ Audio Anti-Spoofing
 
 Data selection techniques for improving spoofing detection and anti-spoofing systems.
 
