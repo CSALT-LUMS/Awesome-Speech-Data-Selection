@@ -4,7 +4,7 @@
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 👋 Welcome to the Data Selection in Speech Processing repo!
-Explore a handpicked set of influential papers and resources covering data selection across diverse speech tasks. 
+Here you’ll find a carefully curated list of essential papers and resources on data selection methods used in various speech processing tasks. 
 
 Our work is based on a comprehensive survey of data selection methodologies in speech processing, covering automatic speech recognition, speaker recognition, speech emotion recognition, speech synthesis, and audio anti-spoofing. The survey is published in IEEE Access.
 
