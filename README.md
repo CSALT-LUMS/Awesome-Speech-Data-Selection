@@ -1,4 +1,4 @@
-# A Survey on Data Selection for Efficient Speech Processing
+# Data Selection for Efficient Speech Processing
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
