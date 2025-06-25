@@ -249,6 +249,7 @@ If you find this repository useful in your research, please consider citing:
   author={Azeemi, Abdul Hameed and Qazi, Ihsan Ayyub and Raza, Agha Ali},
   year={2025},
   journal={IEEE Access},
+  doi={10.1109/ACCESS.2025.3582395}
 }
 ```
 
